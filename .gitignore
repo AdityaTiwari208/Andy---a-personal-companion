@@ -1,0 +1,15 @@
+# Python
+andy/venv/
+andy/__pycache__/
+andy/*.wav
+
+# Voice models — large pre-trained binaries, not your own work
+andy/*.onnx
+andy/*.onnx.json
+
+# Node / VS Code extension
+andy-vscode-ext/node_modules/
+andy-vscode-ext/out/
+
+# PlatformIO firmware build artifacts
+andy-firmware/.pio/

@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../andy"
+		},
+		{
+			"name": "andy-firmware",
+			"path": "../Documents/PlatformIO/Projects/andy-firmware"
+		}
+	],
+	"settings": {}
+}
